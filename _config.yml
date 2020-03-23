@@ -3,6 +3,7 @@ tagline:          A beautiful theme.
 description:      Describe your website.
 canonical: https://santaevpavel.github.io/Blog/
 url: https://santaevpavel.github.io/Blog/
+baseurl: /Blog
 
 # Owner/author information
 owner:

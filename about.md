@@ -1,26 +1,50 @@
 ---
 layout: post
 permalink: /about/index.html
-title: About the Theme
-description: Balzac is a new, fluid & responsive theme for Jekyll (and AnchorCMS). It's gloriously beautiful and suited to long form. Built on a SCSS foundation, it's organized and awesome.
-tags: [about, Jekyll, theme, responsive]
+title: About me
+description: I'am Android Engeneer at SKB LAB. Living in Novisibirsk, Russia.
+tags: [about, Android Engeneer, me]
 image:
-  feature: soft-trees.jpg
+  feature: typewriter.jpg
 ---
 
-This is built on Semantic.gs grid framework which I edited a bit to make it fluid. I hope you enjoy using, forking, whatevering this theme as much as I did making it. 
+### Work experience
 
-### Features
-* flexible, uses max-width for responsive goodness
-* responsive drop down menu
-* retina images using @2x
-* post loop in the footer showing 3 latest post
-* custom portfolio page for case studies
+**Android Engeneer, [SKB Lab](https://skblab.ru), Yekaterinburg**.
 
-### Acknowledgements
-I utilized my own HTML templates, but had no prior knowledge of liquid nor the required Jekyll system file format. I took [Michael Rose](http://twitter.com/mmistakes)'s theme [Minimal Mistakes](http://mmistakes.github.io/minimal-mistakes/). Having a prebuilt archive and the YAML front-matter already set up was a great help. 
+⌛ May 2019 - until now.
 
- The lovely font shown here is Calendas. For full splendor on your blog, I suggest you [head over and buy that](http://calendasplus.com/). The full family is 3 weights and costs $3. Many thanks to Daniel Bruce for the wonderful Entypo icons. Those can be picked up at [entypo.com](http://entypo.com), but are included with the source files. It's also <b>retina ready</b> via retina.js. Check out how that works over at [retinajs.com](http://retinajs.com).
+Development of internet banking android application. Setting up CI/CD.
 
-### The Name
-Balzac was a famous writer, known for his beautiful prose. I read some Balzac in school, but mostly feel comfort in the name of my favorite coffee shop in Stratford, Ontario. 
+💻 **Technologies**: Kotlin, RxJava2, Moxy, Retrofit, Toothpick, Cicerone, Gitlab CI.
+
+**Android Team Lead, Android Engeneer, [Sibext Ltd](https://sibext.com), Novosibirsk.**
+
+⌛ September 2015 - April 2019.
+
+Design and development of android application for smart home management. Application contains network processing, includes interaction with server and with device via proprietary protocol. Implementation of protocol has written on C/C++, and connected to the app via NDK/JNI. Some features had been written on Kotlin/Multiplatform, Kotlin/Native (common code for Android and iOS).
+
+💻 **Technologies**: Kotlin/JVM, Java, RxJava, Moxy, NDK, C/C++, Retrofit, Kotlin/Native, Kotlin/Mulitplatform, Gitlab CI.
+
+👉 **Responsibilities**: development, design, identification and approvement of requirement, setting up CI/CD, code review.
+
+### Education
+
+**Novosibirsk State University (NSU), Novosibirsk.**
+
+⌛ 2015-2017.
+
+👨🏼‍🎓 Master degree, Department of Information Technologies
+
+**Novosibirsk State University (NSU), Novosibirsk.**
+
+⌛ 2011-2015.
+
+👨🏼‍🎓 Bachelor degree, Department of Information Technologies
+
+
+### Languages
+
+**Russian** — native
+
+**English** — pre-intermediate, intermediate (can read technical documentation and chat via internet)

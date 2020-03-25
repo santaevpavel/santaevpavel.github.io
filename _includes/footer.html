@@ -23,6 +23,18 @@
             {% if site.owner.dribbble %}
             <li><a id="drib" href="http://dribbble.com/{{ site.owner.dribbble }}" target="_blank"><span class="foot-link">Dribbble</span></a></li>
             {% endif %}
+
+            {% if site.owner.stackoverflow %}
+            <li><a id="stackoverflow" href="{{ site.owner.stackoverflow }}" target="_blank"><span class="foot-link">Stackoverflow</span></a></li>
+            {% endif %}
+
+            {% if site.owner.linkedin %}
+            <li><a id="linkedin" href="{{ site.owner.linkedin }}" target="_blank"><span class="foot-link">LinkedIn</span></a></li>
+            {% endif %}
+
+            {% if site.owner.github %}
+            <li><a id="github" href="https://github.com/{{ site.owner.github }}" target="_blank"><span class="foot-link">Github</span></a></li>
+            {% endif %}
         </ul>
     </div>
     </aside>

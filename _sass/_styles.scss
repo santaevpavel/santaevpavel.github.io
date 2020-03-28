@@ -78,8 +78,6 @@ code {
     background: #2B2B2B;
     padding: 12px;
     border-radius: 4px;
-    margin-bottom: $lh;
-    border: 1px solid #ccc;
     overflow: auto;
     font-weight: 400;
     line-height: 1.2;
@@ -561,8 +559,7 @@ header.site-header nav {
         @include br(4px);
     }
 
-        table {
-        margin-bottom: $lh;
+    table {
         width: 100%;
         font-size: $fsp;
 
@@ -578,15 +575,15 @@ header.site-header nav {
     }
 
     tbody {
-	   tr:hover > td, tr:hover > th {
-		  background-color: $grey-medium;
-	   }
+	     /*tr:hover > td, tr:hover > th {
+		       background-color: $grey-medium;
+       }*/
     }
 
     thead {
-	   tr:first-child td {
-		  border-bottom: 2px solid $grey-dark;
-	   }
+	     tr:first-child td {
+		       border-bottom: 2px solid $grey-dark;
+      }
     }
 
     th {
@@ -602,7 +599,7 @@ header.site-header nav {
 
     td {
 	   font-size: $fs5;
-       border-bottom: 1px solid $grey-dark;
+     // border-bottom: 1px solid $grey-dark;
 	   padding: (0px + $lhsmall) / 2;
 	   padding: (0rem + ($lhsmall / $fsp)) / 2;
     }

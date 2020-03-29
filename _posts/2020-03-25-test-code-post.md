@@ -4,6 +4,7 @@ title: "My first test post"
 description: "My first test post with code."
 category: articles
 tags: [sample post, readability, test]
+comments: true
 image:
   feature: "altai.jpg"
 ---

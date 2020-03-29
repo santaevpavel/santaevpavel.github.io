@@ -5,6 +5,9 @@ canonical: https://santaevpavel.github.io/Blog/
 url: https://santaevpavel.github.io/Blog/
 baseurl: /Blog
 
+title:            Santaev Pavel
+tagline:          Blog
+description:      Santaev Pavel's blog.
 # Owner/author information
 owner:
   name:           Pavel Santaev
@@ -15,6 +18,7 @@ owner:
   stackoverflow:  https://stackoverflow.com/users/6935045/pavel-santaev?tab=profile
   linkedin:       https://www.linkedin.com/in/pavel-santaev-618891b7/
   location:       "Novosibirsk, Russia"
+  disqus:         santaevpavel
   # Plug in your disqus shortname!
 
 tools:

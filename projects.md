@@ -6,10 +6,10 @@ category: articles
 tags: [projects, test]
 ---
 
-## Content
+#### [Gradle metrics plugin]
 
-### [Gradle metrics plugin](#gradle-metrics-plugin)
-### [Other (TBD)](#tbd)
+See on [Github](https://github.com/santaevpavel/gradle-metrics-plugin).
 
-<h2 id="gradle-metrics-plugin">Gradle metrics plugin</h2>
+This plugin lets to collect gradle project build metrics and publish metrics to other services. __Gradle metrics plugin__ is extensible and allow to extend metrics collectors and metrics dispacthers.
 
+__Collector__ is abstraction that collect metrics during project build time. __Dispatcher__ lets process metrics in someways. For example, print metrics to console or send metrics to analytics service.

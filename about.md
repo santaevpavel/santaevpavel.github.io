@@ -12,7 +12,7 @@ image:
 published: true
 ---
 
-Hi, my name is Pavel, I'am android engineer, have experience with developing complex mobile application, work in team, remote work, setting up CI/CD. I aim to write clean code or help to write clean code. I like to setup tests, lint and everything related to development and CI/CD.
+Hi, my name is Pavel. I'm an Android engineer, have experience with developing complex mobile applications, work in teams, remote work, setting up CI/CD. I aim to write clean code or help to write clean code. I like to set up tests, lint, and everything related to the development and CI/CD.
 
 I have master degree in computer sciences, graduated from Novosibirsk State University. Living in Novosibirsk, Russia.
 My hobbies are playing football, playing a video games and coding.
